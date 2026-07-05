@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi 👋, I'm Matheswaran S
 
-<!--
-**Matheswaran-S/Matheswaran-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE'28 @ SSN College of Engineering
 
-Here are some ideas to get you started:
+I'm passionate about solving challenging algorithmic problems and building software that solves real-world problems. My current focus is on Competitive Programming, Software Engineering, Backend Development, and Distributed Systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Competitive Programming
+
+- 💻 LeetCode: 470+ Problems Solved
+- 📈 Rating: 1733 (Top 11%)
+- ⭐ CodeChef: 2 Star
+- 🏆 Codeforces: 290+ Problems Solved
+
+---
+
+## 💻 Languages
+
+- C++
+- Java
+- Python
+- C
+
+---
+
+## 🛠️ Technologies
+
+- React
+- Spring Boot
+- MongoDB
+- Git
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📌 Current Focus
+
+- Competitive Programming
+- Data Structures & Algorithms
+- Operating Systems
+- Computer Networks
+- Low Latency Systems
+- Backend Development
+
+---
+
+## 📂 Featured Projects
+
+- 🚀 RapidSearch (Currently Building)
+- 📚 Course Management System
+- 🌐 Social Feed App
+
+---
+
+## 🎯 Goal
+
+To become a Software Engineer at world-class product companies while continuously improving my problem-solving skills and building impactful software.
+
