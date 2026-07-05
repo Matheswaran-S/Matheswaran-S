@@ -53,7 +53,6 @@ I'm passionate about solving challenging algorithmic problems and building softw
 
 - 🚀 RapidSearch (Currently Building)
 - 📚 Course Management System
-- 🌐 Social Feed App
 
 ---
 
