@@ -40,6 +40,8 @@ I'm passionate about solving challenging algorithmic problems and building softw
 
 - Competitive Programming
 - Data Structures & Algorithms
+- Database Management System
+- Object Oriented Programming
 - Operating Systems
 - Computer Networks
 - Low Latency Systems
