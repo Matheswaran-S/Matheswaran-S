@@ -51,7 +51,7 @@ I'm passionate about solving challenging algorithmic problems and building softw
 
 ## 📂 Featured Projects
 
-- 🚀 RapidSearch (Currently Building)
+- 🚀 Low-latency in-memory RapidSearch engine
 - 📚 Course Management System
 
 ---
