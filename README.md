@@ -33,6 +33,7 @@ I'm passionate about solving challenging algorithmic problems and building softw
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 
 ---
 
