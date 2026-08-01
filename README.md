@@ -9,7 +9,7 @@ I'm passionate about solving challenging algorithmic problems and building softw
 ## 🚀 Competitive Programming
 
 - 💻 LeetCode: 500+ Problems Solved
-- 📈 Rating: 1742 (Top 11%)
+- 📈 Rating: 1752 (Top 10.47%)
 - ⭐ CodeChef: 2 Star
 - 🏆 Codeforces: 290+ Problems Solved
 
