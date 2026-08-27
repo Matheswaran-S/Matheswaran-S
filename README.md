@@ -9,9 +9,9 @@ I'm passionate about solving challenging algorithmic problems and building softw
 ## 🚀 Competitive Programming
 
 - 💻 LeetCode: 500+ Problems Solved
-- 📈 Rating: 1752 (Top 10.47%)
+- 📈 Rating: 1754 (Top 10%)
 - ⭐ CodeChef: 2 Star
-- 🏆 Codeforces: 290+ Problems Solved
+- 🏆 Codeforces: 300+ Problems Solved
 
 ---
 
@@ -59,5 +59,5 @@ I'm passionate about solving challenging algorithmic problems and building softw
 
 ## 🎯 Goal
 
-To become a Software Engineer at world-class product companies while continuously improving my problem-solving skills and building impactful software.
+To become a Software Engineer at world-class companies while continuously improving my problem-solving skills and building impactful software.
 
