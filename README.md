@@ -29,6 +29,7 @@ I'm passionate about solving challenging algorithmic problems and building softw
 - React
 - Spring Boot
 - MongoDB
+- MySQL
 - Git
 - HTML
 - CSS
@@ -46,6 +47,8 @@ I'm passionate about solving challenging algorithmic problems and building softw
 - Operating Systems
 - Computer Networks
 - Low Latency Systems
+- Low Level Design
+- High Level Design
 - Backend Development
 
 ---
