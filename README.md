@@ -93,11 +93,11 @@ I enjoy understanding software from the data structures and algorithms underneat
 <p align="center">
 
 <a href="https://leetcode.com/u/Matheswaran_S/">
-<img src="https://img.shields.io/badge/LeetCode-548%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+<img src="https://img.shields.io/badge/LeetCode-558%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
 </a>
 
 <a href="https://codeforces.com/profile/Mathes_51">
-<img src="https://img.shields.io/badge/Codeforces-300%20Solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
+<img src="https://img.shields.io/badge/Codeforces-305%20Solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
 </a>
 
 <a href="https://www.codechef.com/users/mathes_pro">
