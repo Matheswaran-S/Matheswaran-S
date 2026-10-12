@@ -84,8 +84,8 @@ I enjoy understanding software from the data structures and algorithms underneat
 
 | Platform | Current | Maximum | Problems |
 | :---: | :---: | :---: | :---: |
-| 🟠 LeetCode | **1761** | **1761** | **575** |
-| 🔵 Codeforces | **1114** | **1117** | **305** |
+| 🟠 LeetCode | **1725** | **1761** | **594** |
+| 🔵 Codeforces | **1126** | **1126** | **315** |
 | 🟤 CodeChef | **1575** | **1588** | **84** |
 
 </div>
