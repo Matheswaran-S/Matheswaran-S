@@ -119,15 +119,17 @@ I enjoy understanding software from the data structures and algorithms underneat
 ```text
 C++17 • Trie • Inverted Index • TF-IDF • LRU Cache
 Multithreading • Levenshtein Distance • CMake
+```
 
 ## 🌐 NetHeal
 
 ### Fault-Tolerant Self-Healing Network Simulator
 
-[🚀 Live Demo](https://netheal-sim.streamlit.app)
+[Live Demo](https://netheal-sim.streamlit.app)
 
 ```text
 Python • Streamlit • SimPy • NetworkX
 Network Fault Simulation • Performance Analysis
 Interactive Dashboards • Plotly • Pytest
-Djikstra Algorithm
+Dijkstra's Algorithm
+```
