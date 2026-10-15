@@ -84,7 +84,7 @@ I enjoy understanding software from the data structures and algorithms underneat
 
 | Platform | Current | Maximum | Problems |
 | :---: | :---: | :---: | :---: |
-| 🟠 LeetCode | **1725** | **1761** | **594** |
+| 🟠 LeetCode | **1748** | **1761** | **601** |
 | 🔵 Codeforces | **1126** | **1126** | **315** |
 | 🟤 CodeChef | **1575** | **1588** | **84** |
 
@@ -93,7 +93,7 @@ I enjoy understanding software from the data structures and algorithms underneat
 <p align="center">
 
 <a href="https://leetcode.com/u/Matheswaran_S/">
-<img src="https://img.shields.io/badge/LeetCode-594%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+<img src="https://img.shields.io/badge/LeetCode-601%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
 </a>
 
 <a href="https://codeforces.com/profile/Mathes_51">
